@@ -8,3 +8,4 @@ setInterval(() => {
                     number.innerHTML = a + "%";}
 
 },23);
+console.log("Circular Progress Bar");
